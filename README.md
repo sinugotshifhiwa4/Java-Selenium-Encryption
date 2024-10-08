@@ -1,4 +1,4 @@
-It seems you're working on a Java project with encryption and logging functionalities using Log4j2 and AES encryption. Below is a structured README based on the project elements you provided, including encryption methods, logging configuration, and code snippets.
+
 
 ---
 
